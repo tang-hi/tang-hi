@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (today)
+- [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (1 day ago)
 - [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (1 week ago)
 - [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (2 weeks ago)
 - [tang-hi/rabitQ](https://github.com/tang-hi/rabitQ) - rabitQ library (1 month ago)
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
-- [davidesantangelo/krep](https://github.com/davidesantangelo/krep) - A High-Performance String Search Utility (6 days ago)
-- [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) -  A high-performance distributed file system designed to address the challenges of AI training and inference workloads.  (2 weeks ago)
+- [davidesantangelo/krep](https://github.com/davidesantangelo/krep) - A High-Performance String Search Utility (1 week ago)
+- [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) -  A high-performance distributed file system designed to address the challenges of AI training and inference workloads.  (3 weeks ago)
 - [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) - My learning notes/codes for ML SYS. (3 weeks ago)
 - [SpriteOvO/AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - ☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP) (4 weeks ago)
 - [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (1 month ago)
