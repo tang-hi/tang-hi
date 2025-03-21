@@ -37,9 +37,9 @@
 
 #### 👯 Check out my recent followers
 
+- [CoreUnitNET](https://github.com/CoreUnitNET)
 - [VicTorWHoX](https://github.com/VicTorWHoX)
 - [IamTheSadik](https://github.com/IamTheSadik)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [Suzan1994](https://github.com/Suzan1994)
-- [c8ef](https://github.com/c8ef)
 
