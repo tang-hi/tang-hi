@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (1 day ago)
+- [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (2 days ago)
 - [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (1 week ago)
 - [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (2 weeks ago)
 - [tang-hi/rabitQ](https://github.com/tang-hi/rabitQ) - rabitQ library (1 month ago)
@@ -18,8 +18,8 @@
 
 - [Enhance the flexibility of the `BinaryOutputArchive` and `BinaryInputArchive` ](https://github.com/greg7mdp/parallel-hashmap/pull/267) on [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) (2 months ago)
 - [feat: add horizontal layout](https://github.com/yetone/avante.nvim/pull/420) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (6 months ago)
-- [feat: add support of light theme](https://github.com/yetone/avante.nvim/pull/195) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (6 months ago)
-- [feat(mapping): shortcut for input box](https://github.com/yetone/avante.nvim/pull/194) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (6 months ago)
+- [feat: add support of light theme](https://github.com/yetone/avante.nvim/pull/195) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (7 months ago)
+- [feat(mapping): shortcut for input box](https://github.com/yetone/avante.nvim/pull/194) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (7 months ago)
 - [use toString when print Status](https://github.com/facebook/CacheLib/pull/328) on [facebook/CacheLib](https://github.com/facebook/CacheLib) (8 months ago)
 - [Fix path error](https://github.com/MrVivekRajan/Hypr-Dots/pull/2) on [MrVivekRajan/Hypr-Dots](https://github.com/MrVivekRajan/Hypr-Dots) (11 months ago)
 - [Fix ut fail on ubuntu](https://github.com/infiniflow/infinity/pull/45) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 years ago)
@@ -32,7 +32,7 @@
 - [davidesantangelo/krep](https://github.com/davidesantangelo/krep) - A High-Performance String Search Utility (1 week ago)
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) -  A high-performance distributed file system designed to address the challenges of AI training and inference workloads.  (3 weeks ago)
 - [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) - My learning notes/codes for ML SYS. (3 weeks ago)
-- [SpriteOvO/AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - ☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP) (4 weeks ago)
+- [SpriteOvO/AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - ☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP) (1 month ago)
 - [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (1 month ago)
 
 #### 👯 Check out my recent followers
