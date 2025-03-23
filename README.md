@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (2 days ago)
+- [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (3 days ago)
 - [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (1 week ago)
 - [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (2 weeks ago)
 - [tang-hi/rabitQ](https://github.com/tang-hi/rabitQ) - rabitQ library (1 month ago)
