@@ -9,8 +9,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (1 week ago)
-- [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (2 weeks ago)
-- [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (3 weeks ago)
+- [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (3 weeks ago)
+- [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (4 weeks ago)
 - [tang-hi/rabitQ](https://github.com/tang-hi/rabitQ) - rabitQ library (1 month ago)
 - [tang-hi/ai-leetcode](https://github.com/tang-hi/ai-leetcode) - A repository for solving LeetCode problems using LLM models (2 months ago)
 
@@ -29,7 +29,7 @@
 
 #### ⭐ Recent stars
 
-- [spiraldb/fsst](https://github.com/spiraldb/fsst) - Pure-Rust implementation of Fast Static Symbol Tables string compression (6 days ago)
+- [spiraldb/fsst](https://github.com/spiraldb/fsst) - Pure-Rust implementation of Fast Static Symbol Tables string compression (1 week ago)
 - [davidesantangelo/krep](https://github.com/davidesantangelo/krep) - A High-Performance String Search Utility (2 weeks ago)
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) -  A high-performance distributed file system designed to address the challenges of AI training and inference workloads.  (1 month ago)
 - [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) - My learning notes/codes for ML SYS. (1 month ago)
