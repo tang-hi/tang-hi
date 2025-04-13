@@ -8,14 +8,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (today)
 - [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (3 weeks ago)
 - [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (1 month ago)
-- [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (1 month ago)
 - [tang-hi/rabitQ](https://github.com/tang-hi/rabitQ) - rabitQ library (1 month ago)
 - [tang-hi/ai-leetcode](https://github.com/tang-hi/ai-leetcode) - A repository for solving LeetCode problems using LLM models (2 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add option to exclude pinned tabs from automatic grouping](https://github.com/tang-hi/smarTab/pull/2) on [tang-hi/smarTab](https://github.com/tang-hi/smarTab) (today)
 - [Enhance the flexibility of the `BinaryOutputArchive` and `BinaryInputArchive` ](https://github.com/greg7mdp/parallel-hashmap/pull/267) on [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) (2 months ago)
 - [feat: add horizontal layout](https://github.com/yetone/avante.nvim/pull/420) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (7 months ago)
 - [feat: add support of light theme](https://github.com/yetone/avante.nvim/pull/195) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (7 months ago)
@@ -25,7 +26,6 @@
 - [Fix ut fail on ubuntu](https://github.com/infiniflow/infinity/pull/45) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 years ago)
 - [[Draft] Add format and tidy, show how to add workflow](https://github.com/infiniflow/infinity/pull/44) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 years ago)
 - [[Draft] Feat/add csv import](https://github.com/infiniflow/infinity/pull/15) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 years ago)
-- [fix catalog ut](https://github.com/infiniflow/infinity/pull/13) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 years ago)
 
 #### ⭐ Recent stars
 
