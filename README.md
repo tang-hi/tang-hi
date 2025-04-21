@@ -29,11 +29,11 @@
 
 #### ⭐ Recent stars
 
+- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - LLM serving with MLX (today)
 - [qqiangwu/cppship](https://github.com/qqiangwu/cppship) - Cargo-like build tool for modern cpp (4 days ago)
 - [spiraldb/fsst](https://github.com/spiraldb/fsst) - Pure-Rust implementation of Fast Static Symbol Tables string compression (3 weeks ago)
 - [davidesantangelo/krep](https://github.com/davidesantangelo/krep) - Fast text search tool with advanced algorithms, SIMD acceleration, multi-threading, and regex support. Designed for rapid, large-scale pattern matching with memory-mapped I/O and hardware optimizations. (1 month ago)
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) -  A high-performance distributed file system designed to address the challenges of AI training and inference workloads.  (1 month ago)
-- [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) - My learning notes/codes for ML SYS. (1 month ago)
 
 #### 👯 Check out my recent followers
 
