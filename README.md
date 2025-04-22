@@ -29,7 +29,7 @@
 
 #### ⭐ Recent stars
 
-- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - LLM serving with MLX (1 day ago)
+- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - (🚧 WIP) LLM serving with MLX tutorial for system engineers. (1 day ago)
 - [qqiangwu/cppship](https://github.com/qqiangwu/cppship) - Cargo-like build tool for modern cpp (5 days ago)
 - [spiraldb/fsst](https://github.com/spiraldb/fsst) - Pure-Rust implementation of Fast Static Symbol Tables string compression (4 weeks ago)
 - [davidesantangelo/krep](https://github.com/davidesantangelo/krep) - Fast text search tool with advanced algorithms, SIMD acceleration, multi-threading, and regex support. Designed for rapid, large-scale pattern matching with memory-mapped I/O and hardware optimizations. (1 month ago)
