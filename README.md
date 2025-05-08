@@ -29,10 +29,10 @@
 
 #### ⭐ Recent stars
 
-- [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) - A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana (2 days ago)
-- [Dobiasd/FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C&#43;&#43;. Write concise and readable C&#43;&#43; code. (1 week ago)
+- [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) - A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana (3 days ago)
+- [Dobiasd/FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C&#43;&#43;. Write concise and readable C&#43;&#43; code. (2 weeks ago)
 - [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - (🚧 WIP) a course of LLM inference serving on Apple Silicon for systems engineers. (2 weeks ago)
-- [qqiangwu/cppship](https://github.com/qqiangwu/cppship) - Cargo-like build tool for modern cpp (2 weeks ago)
+- [qqiangwu/cppship](https://github.com/qqiangwu/cppship) - Cargo-like build tool for modern cpp (3 weeks ago)
 - [spiraldb/fsst](https://github.com/spiraldb/fsst) - Pure-Rust implementation of Fast Static Symbol Tables string compression (1 month ago)
 
 #### 👯 Check out my recent followers
