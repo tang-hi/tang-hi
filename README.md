@@ -8,15 +8,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tang-hi/bnsw](https://github.com/tang-hi/bnsw) (2 weeks ago)
-- [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (3 weeks ago)
+- [tang-hi/bnsw](https://github.com/tang-hi/bnsw) (3 weeks ago)
+- [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (4 weeks ago)
 - [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (1 month ago)
 - [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (2 months ago)
 - [tang-hi/rabitQ](https://github.com/tang-hi/rabitQ) - rabitQ library (2 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add option to exclude pinned tabs from automatic grouping](https://github.com/tang-hi/smarTab/pull/2) on [tang-hi/smarTab](https://github.com/tang-hi/smarTab) (3 weeks ago)
+- [Add option to exclude pinned tabs from automatic grouping](https://github.com/tang-hi/smarTab/pull/2) on [tang-hi/smarTab](https://github.com/tang-hi/smarTab) (4 weeks ago)
 - [Enhance the flexibility of the `BinaryOutputArchive` and `BinaryInputArchive` ](https://github.com/greg7mdp/parallel-hashmap/pull/267) on [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) (3 months ago)
 - [feat: add horizontal layout](https://github.com/yetone/avante.nvim/pull/420) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (8 months ago)
 - [feat: add support of light theme](https://github.com/yetone/avante.nvim/pull/195) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (8 months ago)
@@ -29,7 +29,7 @@
 
 #### ⭐ Recent stars
 
-- [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) - A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana (5 days ago)
+- [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) - A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana (6 days ago)
 - [Dobiasd/FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C&#43;&#43;. Write concise and readable C&#43;&#43; code. (2 weeks ago)
 - [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - (🚧 WIP) a course of LLM inference serving on Apple Silicon for systems engineers. (2 weeks ago)
 - [qqiangwu/cppship](https://github.com/qqiangwu/cppship) - Cargo-like build tool for modern cpp (3 weeks ago)
