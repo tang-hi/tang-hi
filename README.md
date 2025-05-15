@@ -9,10 +9,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [tang-hi/bnsw](https://github.com/tang-hi/bnsw) (today)
+- [tang-hi/rabitQ](https://github.com/tang-hi/rabitQ) - rabitQ library (today)
 - [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (1 month ago)
 - [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (1 month ago)
 - [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (2 months ago)
-- [tang-hi/rabitQ](https://github.com/tang-hi/rabitQ) - rabitQ library (2 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
