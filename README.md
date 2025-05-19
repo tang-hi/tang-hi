@@ -37,9 +37,9 @@
 
 #### 👯 Check out my recent followers
 
+- [seckinyasar](https://github.com/seckinyasar)
 - [IamTheSadik](https://github.com/IamTheSadik)
 - [c8ef](https://github.com/c8ef)
 - [Fity](https://github.com/Fity)
 - [toymil](https://github.com/toymil)
-- [xiaolitongxue666](https://github.com/xiaolitongxue666)
 
