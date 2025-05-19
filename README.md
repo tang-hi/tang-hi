@@ -8,10 +8,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tang-hi/bnsw](https://github.com/tang-hi/bnsw) (2 days ago)
-- [tang-hi/rabitQ](https://github.com/tang-hi/rabitQ) - rabitQ library (3 days ago)
+- [tang-hi/bnsw](https://github.com/tang-hi/bnsw) (3 days ago)
+- [tang-hi/rabitQ](https://github.com/tang-hi/rabitQ) - rabitQ library (4 days ago)
 - [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (1 month ago)
-- [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (1 month ago)
+- [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (2 months ago)
 - [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (2 months ago)
 
 #### 🔨 Latest Pull Requests I published
@@ -29,9 +29,9 @@
 
 #### ⭐ Recent stars
 
-- [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) - A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana (1 week ago)
+- [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) - A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana (2 weeks ago)
 - [Dobiasd/FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C&#43;&#43;. Write concise and readable C&#43;&#43; code. (3 weeks ago)
-- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - (🚧 WIP) a course of LLM inference serving on Apple Silicon for systems engineers. (3 weeks ago)
+- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - (🚧 WIP) a course of LLM inference serving on Apple Silicon for systems engineers. (4 weeks ago)
 - [qqiangwu/cppship](https://github.com/qqiangwu/cppship) - Cargo-like build tool for modern cpp (1 month ago)
 - [spiraldb/fsst](https://github.com/spiraldb/fsst) - Pure-Rust implementation of Fast Static Symbol Tables string compression (1 month ago)
 
