@@ -37,9 +37,9 @@
 
 #### 👯 Check out my recent followers
 
+- [kitelife](https://github.com/kitelife)
 - [filedonkey](https://github.com/filedonkey)
 - [helallao](https://github.com/helallao)
 - [seckinyasar](https://github.com/seckinyasar)
 - [IamTheSadik](https://github.com/IamTheSadik)
-- [c8ef](https://github.com/c8ef)
 
