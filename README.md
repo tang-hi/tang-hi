@@ -37,9 +37,9 @@
 
 #### 👯 Check out my recent followers
 
+- [ssk01](https://github.com/ssk01)
 - [zoroqi](https://github.com/zoroqi)
 - [kitelife](https://github.com/kitelife)
 - [filedonkey](https://github.com/filedonkey)
 - [helallao](https://github.com/helallao)
-- [seckinyasar](https://github.com/seckinyasar)
 
