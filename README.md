@@ -8,9 +8,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (6 days ago)
+- [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (1 week ago)
 - [tang-hi/bnsw](https://github.com/tang-hi/bnsw) (1 week ago)
-- [tang-hi/rabitQ](https://github.com/tang-hi/rabitQ) - rabitQ library (1 week ago)
+- [tang-hi/rabitQ](https://github.com/tang-hi/rabitQ) - rabitQ library (2 weeks ago)
 - [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (1 month ago)
 - [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (2 months ago)
 
