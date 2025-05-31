@@ -29,7 +29,7 @@
 
 #### ⭐ Recent stars
 
-- [tang-hi/running_page](https://github.com/tang-hi/running_page) - Make your own running home page (today)
+- [tang-hi/running_page](https://github.com/tang-hi/running_page) - Make your own running home page (1 day ago)
 - [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) - A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana (3 weeks ago)
 - [Dobiasd/FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C&#43;&#43;. Write concise and readable C&#43;&#43; code. (1 month ago)
 - [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - (🚧 WIP) a course of LLM inference serving on Apple Silicon for systems engineers. (1 month ago)
