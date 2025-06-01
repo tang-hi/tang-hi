@@ -16,6 +16,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [make garmin&#39;s tradmill data could be imported](https://github.com/yihong0618/running_page/pull/863) on [yihong0618/running_page](https://github.com/yihong0618/running_page) (today)
 - [Add option to exclude pinned tabs from automatic grouping](https://github.com/tang-hi/smarTab/pull/2) on [tang-hi/smarTab](https://github.com/tang-hi/smarTab) (1 month ago)
 - [Enhance the flexibility of the `BinaryOutputArchive` and `BinaryInputArchive` ](https://github.com/greg7mdp/parallel-hashmap/pull/267) on [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) (4 months ago)
 - [feat: add horizontal layout](https://github.com/yetone/avante.nvim/pull/420) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (9 months ago)
@@ -25,7 +26,6 @@
 - [Fix path error](https://github.com/MrVivekRajan/Hypr-Dots/pull/2) on [MrVivekRajan/Hypr-Dots](https://github.com/MrVivekRajan/Hypr-Dots) (1 year ago)
 - [Fix ut fail on ubuntu](https://github.com/infiniflow/infinity/pull/45) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 years ago)
 - [[Draft] Add format and tidy, show how to add workflow](https://github.com/infiniflow/infinity/pull/44) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 years ago)
-- [[Draft] Feat/add csv import](https://github.com/infiniflow/infinity/pull/15) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 years ago)
 
 #### ⭐ Recent stars
 
