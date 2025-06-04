@@ -29,11 +29,11 @@
 
 #### ⭐ Recent stars
 
+- [VectorDB-NTU/RaBitQ-Library](https://github.com/VectorDB-NTU/RaBitQ-Library) - A lightweight library for the RaBitQ algorithm and its applications in vector search. (today)
 - [tang-hi/running_page](https://github.com/tang-hi/running_page) - Make your own running home page (5 days ago)
 - [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) - A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana (1 month ago)
 - [Dobiasd/FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C&#43;&#43;. Write concise and readable C&#43;&#43; code. (1 month ago)
 - [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - (🚧 WIP) a course of LLM inference serving on Apple Silicon for systems engineers. (1 month ago)
-- [qqiangwu/cppship](https://github.com/qqiangwu/cppship) - Cargo-like build tool for modern cpp (1 month ago)
 
 #### 👯 Check out my recent followers
 
