@@ -37,9 +37,9 @@
 
 #### 👯 Check out my recent followers
 
+- [Fallenpetal](https://github.com/Fallenpetal)
 - [Lizidong01](https://github.com/Lizidong01)
 - [ssk01](https://github.com/ssk01)
 - [zoroqi](https://github.com/zoroqi)
 - [kitelife](https://github.com/kitelife)
-- [helallao](https://github.com/helallao)
 
