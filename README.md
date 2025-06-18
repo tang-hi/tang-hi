@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tang-hi/fast_scan](https://github.com/tang-hi/fast_scan) (1 week ago)
+- [tang-hi/fast_scan](https://github.com/tang-hi/fast_scan) (today)
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (2 weeks ago)
 - [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (3 weeks ago)
 - [tang-hi/bnsw](https://github.com/tang-hi/bnsw) (1 month ago)
