@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tang-hi/fast_scan](https://github.com/tang-hi/fast_scan) (3 days ago)
+- [tang-hi/fast_scan](https://github.com/tang-hi/fast_scan) (4 days ago)
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (2 weeks ago)
 - [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (1 month ago)
 - [tang-hi/bnsw](https://github.com/tang-hi/bnsw) (1 month ago)
@@ -33,7 +33,7 @@
 - [VectorDB-NTU/RaBitQ-Library](https://github.com/VectorDB-NTU/RaBitQ-Library) - A lightweight library for the RaBitQ algorithm and its applications in vector search. (2 weeks ago)
 - [tang-hi/running_page](https://github.com/tang-hi/running_page) - Make your own running home page (3 weeks ago)
 - [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) - A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana (1 month ago)
-- [Dobiasd/FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C&#43;&#43;. Write concise and readable C&#43;&#43; code. (1 month ago)
+- [Dobiasd/FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C&#43;&#43;. Write concise and readable C&#43;&#43; code. (2 months ago)
 
 #### 👯 Check out my recent followers
 
