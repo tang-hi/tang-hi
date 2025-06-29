@@ -16,7 +16,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [make garmin&#39;s tradmill data could be imported](https://github.com/yihong0618/running_page/pull/863) on [yihong0618/running_page](https://github.com/yihong0618/running_page) (3 weeks ago)
+- [make garmin&#39;s tradmill data could be imported](https://github.com/yihong0618/running_page/pull/863) on [yihong0618/running_page](https://github.com/yihong0618/running_page) (4 weeks ago)
 - [Add option to exclude pinned tabs from automatic grouping](https://github.com/tang-hi/smarTab/pull/2) on [tang-hi/smarTab](https://github.com/tang-hi/smarTab) (2 months ago)
 - [Enhance the flexibility of the `BinaryOutputArchive` and `BinaryInputArchive` ](https://github.com/greg7mdp/parallel-hashmap/pull/267) on [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) (5 months ago)
 - [feat: add horizontal layout](https://github.com/yetone/avante.nvim/pull/420) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (10 months ago)
@@ -31,7 +31,7 @@
 
 - [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) - A KV storage engine based on LSM Tree, supporting Redis RESP (3 weeks ago)
 - [VectorDB-NTU/RaBitQ-Library](https://github.com/VectorDB-NTU/RaBitQ-Library) - A lightweight library for the RaBitQ algorithm and its applications in vector search. (3 weeks ago)
-- [tang-hi/running_page](https://github.com/tang-hi/running_page) - Make your own running home page (4 weeks ago)
+- [tang-hi/running_page](https://github.com/tang-hi/running_page) - Make your own running home page (1 month ago)
 - [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) - A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana (1 month ago)
 - [Dobiasd/FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C&#43;&#43;. Write concise and readable C&#43;&#43; code. (2 months ago)
 
