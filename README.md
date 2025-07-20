@@ -20,8 +20,8 @@
 - [Add option to exclude pinned tabs from automatic grouping](https://github.com/tang-hi/smarTab/pull/2) on [tang-hi/smarTab](https://github.com/tang-hi/smarTab) (3 months ago)
 - [Enhance the flexibility of the `BinaryOutputArchive` and `BinaryInputArchive` ](https://github.com/greg7mdp/parallel-hashmap/pull/267) on [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) (6 months ago)
 - [feat: add horizontal layout](https://github.com/yetone/avante.nvim/pull/420) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (10 months ago)
-- [feat: add support of light theme](https://github.com/yetone/avante.nvim/pull/195) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (10 months ago)
-- [feat(mapping): shortcut for input box](https://github.com/yetone/avante.nvim/pull/194) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (10 months ago)
+- [feat: add support of light theme](https://github.com/yetone/avante.nvim/pull/195) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (11 months ago)
+- [feat(mapping): shortcut for input box](https://github.com/yetone/avante.nvim/pull/194) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (11 months ago)
 - [use toString when print Status](https://github.com/facebook/CacheLib/pull/328) on [facebook/CacheLib](https://github.com/facebook/CacheLib) (1 year ago)
 - [Fix path error](https://github.com/MrVivekRajan/Hypr-Dots/pull/2) on [MrVivekRajan/Hypr-Dots](https://github.com/MrVivekRajan/Hypr-Dots) (1 year ago)
 - [Fix ut fail on ubuntu](https://github.com/infiniflow/infinity/pull/45) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 years ago)
@@ -29,7 +29,7 @@
 
 #### ⭐ Recent stars
 
-- [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。 (1 week ago)
+- [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。 (2 weeks ago)
 - [Vanilla-Beauty/tiny-lsm](https://github.com/Vanilla-Beauty/tiny-lsm) - A KV storage engine based on LSM Tree, supporting Redis RESP (1 month ago)
 - [VectorDB-NTU/RaBitQ-Library](https://github.com/VectorDB-NTU/RaBitQ-Library) - A lightweight library for the RaBitQ algorithm and its applications in vector search. (1 month ago)
 - [tang-hi/running_page](https://github.com/tang-hi/running_page) - Make your own running home page (1 month ago)
