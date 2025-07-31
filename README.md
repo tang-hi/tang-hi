@@ -16,7 +16,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [make garmin&#39;s tradmill data could be imported](https://github.com/yihong0618/running_page/pull/863) on [yihong0618/running_page](https://github.com/yihong0618/running_page) (1 month ago)
+- [make garmin&#39;s tradmill data could be imported](https://github.com/yihong0618/running_page/pull/863) on [yihong0618/running_page](https://github.com/yihong0618/running_page) (2 months ago)
 - [Add option to exclude pinned tabs from automatic grouping](https://github.com/tang-hi/smarTab/pull/2) on [tang-hi/smarTab](https://github.com/tang-hi/smarTab) (3 months ago)
 - [Enhance the flexibility of the `BinaryOutputArchive` and `BinaryInputArchive` ](https://github.com/greg7mdp/parallel-hashmap/pull/267) on [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) (6 months ago)
 - [feat: add horizontal layout](https://github.com/yetone/avante.nvim/pull/420) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (11 months ago)
