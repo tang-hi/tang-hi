@@ -37,9 +37,9 @@
 
 #### 👯 Check out my recent followers
 
+- [Funlxy](https://github.com/Funlxy)
 - [XiaomingX](https://github.com/XiaomingX)
 - [helallao](https://github.com/helallao)
 - [seckinyasar](https://github.com/seckinyasar)
 - [egolearner](https://github.com/egolearner)
-- [Fallenpetal](https://github.com/Fallenpetal)
 
