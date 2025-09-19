@@ -8,10 +8,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tang-hi/clangd-mcp](https://github.com/tang-hi/clangd-mcp) - A mcp for clangd (today)
-- [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (4 weeks ago)
+- [tang-hi/clangd-mcp](https://github.com/tang-hi/clangd-mcp) - A mcp for clangd (1 day ago)
+- [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (1 month ago)
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (3 months ago)
-- [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (3 months ago)
+- [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (4 months ago)
 - [tang-hi/bnsw](https://github.com/tang-hi/bnsw) (4 months ago)
 
 #### 🔨 Latest Pull Requests I published
@@ -29,9 +29,9 @@
 
 #### ⭐ Recent stars
 
-- [shap/shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model. (today)
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN (5 days ago)
-- [makccr/wallpapers](https://github.com/makccr/wallpapers) - A repo that contains a whole bunch of nice, mostly =&gt;4K wallpapers. (5 days ago)
+- [shap/shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model. (1 day ago)
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN (6 days ago)
+- [makccr/wallpapers](https://github.com/makccr/wallpapers) - A repo that contains a whole bunch of nice, mostly =&gt;4K wallpapers. (6 days ago)
 - [parallel101/cppguidebook](https://github.com/parallel101/cppguidebook) - 小彭老师领衔编写，现代C&#43;&#43;的中文百科全书 (1 week ago)
 - [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。 (2 months ago)
 
