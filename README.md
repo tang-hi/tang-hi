@@ -29,11 +29,11 @@
 
 #### ⭐ Recent stars
 
+- [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs) - A distributed file system (today)
 - [shap/shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model. (1 day ago)
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN (6 days ago)
 - [makccr/wallpapers](https://github.com/makccr/wallpapers) - A repo that contains a whole bunch of nice, mostly =&gt;4K wallpapers. (6 days ago)
 - [parallel101/cppguidebook](https://github.com/parallel101/cppguidebook) - 小彭老师领衔编写，现代C&#43;&#43;的中文百科全书 (1 week ago)
-- [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。 (2 months ago)
 
 #### 👯 Check out my recent followers
 
