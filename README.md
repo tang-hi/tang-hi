@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tang-hi/clangd-mcp](https://github.com/tang-hi/clangd-mcp) - A mcp for clangd (3 days ago)
+- [tang-hi/clangd-mcp](https://github.com/tang-hi/clangd-mcp) - A mcp for clangd (4 days ago)
 - [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (1 month ago)
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (3 months ago)
 - [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (4 months ago)
@@ -23,15 +23,15 @@
 - [feat: add support of light theme](https://github.com/yetone/avante.nvim/pull/195) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (1 year ago)
 - [feat(mapping): shortcut for input box](https://github.com/yetone/avante.nvim/pull/194) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (1 year ago)
 - [use toString when print Status](https://github.com/facebook/CacheLib/pull/328) on [facebook/CacheLib](https://github.com/facebook/CacheLib) (1 year ago)
-- [Fix path error](https://github.com/MrVivekRajan/Hypr-Dots/pull/2) on [MrVivekRajan/Hypr-Dots](https://github.com/MrVivekRajan/Hypr-Dots) (1 year ago)
+- [Fix path error](https://github.com/MrVivekRajan/Hypr-Dots/pull/2) on [MrVivekRajan/Hypr-Dots](https://github.com/MrVivekRajan/Hypr-Dots) (2 years ago)
 - [Fix ut fail on ubuntu](https://github.com/infiniflow/infinity/pull/45) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 years ago)
 - [[Draft] Add format and tidy, show how to add workflow](https://github.com/infiniflow/infinity/pull/44) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 years ago)
 
 #### ⭐ Recent stars
 
-- [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) - 大麦自动抢票，支持人员、城市、日期场次、价格选择 (2 days ago)
-- [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs) - A distributed file system (2 days ago)
-- [shap/shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model. (3 days ago)
+- [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) - 大麦自动抢票，支持人员、城市、日期场次、价格选择 (3 days ago)
+- [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs) - A distributed file system (3 days ago)
+- [shap/shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model. (4 days ago)
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN (1 week ago)
 - [makccr/wallpapers](https://github.com/makccr/wallpapers) - A repo that contains a whole bunch of nice, mostly =&gt;4K wallpapers. (1 week ago)
 
