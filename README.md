@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tang-hi/clangd-mcp](https://github.com/tang-hi/clangd-mcp) - A mcp for clangd (4 days ago)
+- [tang-hi/clangd-mcp](https://github.com/tang-hi/clangd-mcp) - A mcp for clangd (5 days ago)
 - [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (1 month ago)
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (3 months ago)
 - [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (4 months ago)
@@ -29,9 +29,9 @@
 
 #### ⭐ Recent stars
 
-- [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) - 大麦自动抢票，支持人员、城市、日期场次、价格选择 (3 days ago)
-- [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs) - A distributed file system (3 days ago)
-- [shap/shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model. (4 days ago)
+- [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) - 大麦自动抢票，支持人员、城市、日期场次、价格选择 (4 days ago)
+- [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs) - A distributed file system (4 days ago)
+- [shap/shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model. (5 days ago)
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN (1 week ago)
 - [makccr/wallpapers](https://github.com/makccr/wallpapers) - A repo that contains a whole bunch of nice, mostly =&gt;4K wallpapers. (1 week ago)
 
