@@ -8,11 +8,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [tang-hi/csgo-trader](https://github.com/tang-hi/csgo-trader) - Let (today)
 - [tang-hi/clangd-mcp](https://github.com/tang-hi/clangd-mcp) - A mcp for clangd (6 days ago)
 - [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (1 month ago)
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (3 months ago)
 - [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (4 months ago)
-- [tang-hi/bnsw](https://github.com/tang-hi/bnsw) (4 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
