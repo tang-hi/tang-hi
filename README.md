@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [tang-hi/csgo-trader](https://github.com/tang-hi/csgo-trader) - Let (today)
 - [clice-io/clice](https://github.com/clice-io/clice) - A next-generation C&#43;&#43; language server for modern C&#43;&#43;, focused on high performance and deep code intelligence (3 days ago)
-- [tang-hi/csgo-trader](https://github.com/tang-hi/csgo-trader) - Let (4 days ago)
 - [tang-hi/clangd-mcp](https://github.com/tang-hi/clangd-mcp) - A mcp for clangd (1 week ago)
 - [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (1 month ago)
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (3 months ago)
