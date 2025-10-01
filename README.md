@@ -31,7 +31,7 @@
 
 - [Steamauto/Steamauto](https://github.com/Steamauto/Steamauto) - 免费开源的网易BUFF、悠悠有品、ECOsteam、C5Game、Steam的全自动收发货解决方案 (6 days ago)
 - [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) - 大麦自动抢票，支持人员、城市、日期场次、价格选择 (1 week ago)
-- [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs) - A distributed file system (1 week ago)
+- [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs) - An exabyte-scale, multi-region distributed file system (1 week ago)
 - [shap/shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model. (1 week ago)
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN (2 weeks ago)
 
