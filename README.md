@@ -16,6 +16,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add self-assignment check in move assignment operator for Task](https://github.com/clice-io/clice/pull/275) on [clice-io/clice](https://github.com/clice-io/clice) (today)
 - [Update LLVM build configuration to include clang-tools-extra project](https://github.com/clice-io/clice/pull/266) on [clice-io/clice](https://github.com/clice-io/clice) (2 weeks ago)
 - [make garmin&#39;s tradmill data could be imported](https://github.com/yihong0618/running_page/pull/863) on [yihong0618/running_page](https://github.com/yihong0618/running_page) (4 months ago)
 - [Add option to exclude pinned tabs from automatic grouping](https://github.com/tang-hi/smarTab/pull/2) on [tang-hi/smarTab](https://github.com/tang-hi/smarTab) (5 months ago)
@@ -25,7 +26,6 @@
 - [feat(mapping): shortcut for input box](https://github.com/yetone/avante.nvim/pull/194) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (1 year ago)
 - [use toString when print Status](https://github.com/facebook/CacheLib/pull/328) on [facebook/CacheLib](https://github.com/facebook/CacheLib) (1 year ago)
 - [Fix path error](https://github.com/MrVivekRajan/Hypr-Dots/pull/2) on [MrVivekRajan/Hypr-Dots](https://github.com/MrVivekRajan/Hypr-Dots) (2 years ago)
-- [Fix ut fail on ubuntu](https://github.com/infiniflow/infinity/pull/45) on [infiniflow/infinity](https://github.com/infiniflow/infinity) (2 years ago)
 
 #### ⭐ Recent stars
 
