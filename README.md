@@ -39,7 +39,7 @@
 
 - [WaRtr0](https://github.com/WaRtr0)
 - [Funlxy](https://github.com/Funlxy)
-- [XiaomingX](https://github.com/XiaomingX)
 - [seckinyasar](https://github.com/seckinyasar)
 - [egolearner](https://github.com/egolearner)
+- [Fallenpetal](https://github.com/Fallenpetal)
 
