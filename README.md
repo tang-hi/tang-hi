@@ -40,6 +40,6 @@
 - [XiaomingX](https://github.com/XiaomingX)
 - [WaRtr0](https://github.com/WaRtr0)
 - [Funlxy](https://github.com/Funlxy)
-- [seckinyasar](https://github.com/seckinyasar)
 - [egolearner](https://github.com/egolearner)
+- [Fallenpetal](https://github.com/Fallenpetal)
 
