@@ -38,8 +38,8 @@
 #### 👯 Check out my recent followers
 
 - [Fischer0522](https://github.com/Fischer0522)
-- [frieren-mage](https://github.com/frieren-mage)
 - [XiaomingX](https://github.com/XiaomingX)
 - [WaRtr0](https://github.com/WaRtr0)
 - [Funlxy](https://github.com/Funlxy)
+- [egolearner](https://github.com/egolearner)
 
