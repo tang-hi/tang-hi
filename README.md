@@ -29,7 +29,7 @@
 
 #### ⭐ Recent stars
 
-- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent. (1 day ago)
+- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent. (2 days ago)
 - [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system. (1 week ago)
 - [Steamauto/Steamauto](https://github.com/Steamauto/Steamauto) - 免费开源的网易BUFF、悠悠有品、ECOsteam、C5Game、Steam的全自动收发货解决方案 (1 month ago)
 - [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) - 大麦自动抢票，支持人员、城市、日期场次、价格选择 (1 month ago)
