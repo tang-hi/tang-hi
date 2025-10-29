@@ -18,7 +18,7 @@
 
 - [Add self-assignment check in move assignment operator for Task](https://github.com/clice-io/clice/pull/275) on [clice-io/clice](https://github.com/clice-io/clice) (2 weeks ago)
 - [Update LLVM build configuration to include clang-tools-extra project](https://github.com/clice-io/clice/pull/266) on [clice-io/clice](https://github.com/clice-io/clice) (1 month ago)
-- [make garmin&#39;s tradmill data could be imported](https://github.com/yihong0618/running_page/pull/863) on [yihong0618/running_page](https://github.com/yihong0618/running_page) (4 months ago)
+- [make garmin&#39;s tradmill data could be imported](https://github.com/yihong0618/running_page/pull/863) on [yihong0618/running_page](https://github.com/yihong0618/running_page) (5 months ago)
 - [Add option to exclude pinned tabs from automatic grouping](https://github.com/tang-hi/smarTab/pull/2) on [tang-hi/smarTab](https://github.com/tang-hi/smarTab) (6 months ago)
 - [Enhance the flexibility of the `BinaryOutputArchive` and `BinaryInputArchive` ](https://github.com/greg7mdp/parallel-hashmap/pull/267) on [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) (9 months ago)
 - [feat: add horizontal layout](https://github.com/yetone/avante.nvim/pull/420) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (1 year ago)
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
-- [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone (2 days ago)
-- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent. (4 days ago)
+- [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone (3 days ago)
+- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent. (5 days ago)
 - [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system. (1 week ago)
 - [Steamauto/Steamauto](https://github.com/Steamauto/Steamauto) - 免费开源的网易BUFF、悠悠有品、ECOsteam、C5Game、Steam的全自动收发货解决方案 (1 month ago)
 - [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) - 大麦自动抢票，支持人员、城市、日期场次、价格选择 (1 month ago)
