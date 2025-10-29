@@ -38,8 +38,8 @@
 #### 👯 Check out my recent followers
 
 - [Fischer0522](https://github.com/Fischer0522)
-- [XiaomingX](https://github.com/XiaomingX)
 - [WaRtr0](https://github.com/WaRtr0)
 - [Funlxy](https://github.com/Funlxy)
 - [egolearner](https://github.com/egolearner)
+- [Fallenpetal](https://github.com/Fallenpetal)
 
