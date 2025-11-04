@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (today)
+- [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (1 day ago)
 - [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (1 month ago)
 - [clice-io/clice](https://github.com/clice-io/clice) - A next-generation C&#43;&#43; language server for modern C&#43;&#43;, focused on high performance and deep code intelligence (1 month ago)
 - [tang-hi/clangd-mcp](https://github.com/tang-hi/clangd-mcp) - A mcp for clangd (1 month ago)
