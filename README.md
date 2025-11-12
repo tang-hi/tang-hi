@@ -29,7 +29,7 @@
 
 #### ⭐ Recent stars
 
-- [hzjken/crypto-arbitrage-framework](https://github.com/hzjken/crypto-arbitrage-framework) - A cryptocurrency arbitrage framework implemented with ccxt and cplex. It can be used to monitor multiple exchanges, find a multi-lateral arbitrage path which maximizes rate of return, calculate the optimal trading amount for each pair in the path given flexible constraints, and execute trades with multi-threading implemenation. (today)
+- [hzjken/crypto-arbitrage-framework](https://github.com/hzjken/crypto-arbitrage-framework) - A cryptocurrency arbitrage framework implemented with ccxt and cplex. It can be used to monitor multiple exchanges, find a multi-lateral arbitrage path which maximizes rate of return, calculate the optimal trading amount for each pair in the path given flexible constraints, and execute trades with multi-threading implemenation. (1 day ago)
 - [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone (2 weeks ago)
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent. (2 weeks ago)
 - [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system. (3 weeks ago)
