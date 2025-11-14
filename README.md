@@ -16,6 +16,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: enable preview diff when using tools like StrReplace and Write](https://github.com/MoonshotAI/kimi-cli/pull/289) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (today)
 - [feat: improve SetTodoList rendering with Markdown styles](https://github.com/MoonshotAI/kimi-cli/pull/284) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (today)
 - [Add self-assignment check in move assignment operator for Task](https://github.com/clice-io/clice/pull/275) on [clice-io/clice](https://github.com/clice-io/clice) (1 month ago)
 - [Update LLVM build configuration to include clang-tools-extra project](https://github.com/clice-io/clice/pull/266) on [clice-io/clice](https://github.com/clice-io/clice) (1 month ago)
@@ -25,7 +26,6 @@
 - [feat: add horizontal layout](https://github.com/yetone/avante.nvim/pull/420) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (1 year ago)
 - [feat: add support of light theme](https://github.com/yetone/avante.nvim/pull/195) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (1 year ago)
 - [feat(mapping): shortcut for input box](https://github.com/yetone/avante.nvim/pull/194) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (1 year ago)
-- [use toString when print Status](https://github.com/facebook/CacheLib/pull/328) on [facebook/CacheLib](https://github.com/facebook/CacheLib) (1 year ago)
 
 #### ⭐ Recent stars
 
