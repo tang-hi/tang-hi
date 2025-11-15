@@ -40,6 +40,6 @@
 - [iamljd](https://github.com/iamljd)
 - [leizhiyuan](https://github.com/leizhiyuan)
 - [Fischer0522](https://github.com/Fischer0522)
-- [WaRtr0](https://github.com/WaRtr0)
 - [Funlxy](https://github.com/Funlxy)
+- [egolearner](https://github.com/egolearner)
 
