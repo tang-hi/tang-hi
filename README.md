@@ -16,6 +16,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [minor change: code cleanup](https://github.com/apache/lucene/pull/15447) on [apache/lucene](https://github.com/apache/lucene) (today)
 - [feat: enable preview diff when using tools like StrReplace and Write](https://github.com/MoonshotAI/kimi-cli/pull/289) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (1 week ago)
 - [feat: improve SetTodoList rendering with Markdown styles](https://github.com/MoonshotAI/kimi-cli/pull/284) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (1 week ago)
 - [Add self-assignment check in move assignment operator for Task](https://github.com/clice-io/clice/pull/275) on [clice-io/clice](https://github.com/clice-io/clice) (1 month ago)
@@ -25,7 +26,6 @@
 - [Enhance the flexibility of the `BinaryOutputArchive` and `BinaryInputArchive` ](https://github.com/greg7mdp/parallel-hashmap/pull/267) on [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) (10 months ago)
 - [feat: add horizontal layout](https://github.com/yetone/avante.nvim/pull/420) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (1 year ago)
 - [feat: add support of light theme](https://github.com/yetone/avante.nvim/pull/195) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (1 year ago)
-- [feat(mapping): shortcut for input box](https://github.com/yetone/avante.nvim/pull/194) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (1 year ago)
 
 #### ⭐ Recent stars
 
