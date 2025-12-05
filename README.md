@@ -8,17 +8,17 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (4 days ago)
+- [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (5 days ago)
 - [tang-hi/simplefst](https://github.com/tang-hi/simplefst) - A tiny, header-only finite state transducer (FST) implementation (2 weeks ago)
-- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent. (2 weeks ago)
+- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent. (3 weeks ago)
 - [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (2 months ago)
 - [clice-io/clice](https://github.com/clice-io/clice) - A next-generation C&#43;&#43; language server for modern C&#43;&#43;, focused on high performance and deep code intelligence (2 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
 - [minor change: code cleanup](https://github.com/apache/lucene/pull/15447) on [apache/lucene](https://github.com/apache/lucene) (1 week ago)
-- [feat: enable preview diff when using tools like StrReplace and Write](https://github.com/MoonshotAI/kimi-cli/pull/289) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (2 weeks ago)
-- [feat: improve SetTodoList rendering with Markdown styles](https://github.com/MoonshotAI/kimi-cli/pull/284) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (2 weeks ago)
+- [feat: enable preview diff when using tools like StrReplace and Write](https://github.com/MoonshotAI/kimi-cli/pull/289) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (3 weeks ago)
+- [feat: improve SetTodoList rendering with Markdown styles](https://github.com/MoonshotAI/kimi-cli/pull/284) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (3 weeks ago)
 - [Add self-assignment check in move assignment operator for Task](https://github.com/clice-io/clice/pull/275) on [clice-io/clice](https://github.com/clice-io/clice) (1 month ago)
 - [Update LLVM build configuration to include clang-tools-extra project](https://github.com/clice-io/clice/pull/266) on [clice-io/clice](https://github.com/clice-io/clice) (2 months ago)
 - [make garmin&#39;s tradmill data could be imported](https://github.com/yihong0618/running_page/pull/863) on [yihong0618/running_page](https://github.com/yihong0618/running_page) (6 months ago)
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
-- [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling. (3 days ago)
-- [xiaguan/pegaflow](https://github.com/xiaguan/pegaflow) (1 week ago)
+- [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling. (4 days ago)
+- [xiaguan/pegaflow](https://github.com/xiaguan/pegaflow) (2 weeks ago)
 - [hzjken/crypto-arbitrage-framework](https://github.com/hzjken/crypto-arbitrage-framework) - A cryptocurrency arbitrage framework implemented with ccxt and cplex. It can be used to monitor multiple exchanges, find a multi-lateral arbitrage path which maximizes rate of return, calculate the optimal trading amount for each pair in the path given flexible constraints, and execute trades with multi-threading implemenation. (3 weeks ago)
 - [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone (1 month ago)
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent. (1 month ago)
