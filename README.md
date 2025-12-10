@@ -9,7 +9,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (1 week ago)
-- [tang-hi/simplefst](https://github.com/tang-hi/simplefst) - A tiny, header-only finite state transducer (FST) implementation (2 weeks ago)
+- [tang-hi/simplefst](https://github.com/tang-hi/simplefst) - A tiny, header-only finite state transducer (FST) implementation (3 weeks ago)
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent. (3 weeks ago)
 - [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (2 months ago)
 - [clice-io/clice](https://github.com/clice-io/clice) - A next-generation C&#43;&#43; language server for modern C&#43;&#43;, focused on high performance and deep code intelligence (2 months ago)
