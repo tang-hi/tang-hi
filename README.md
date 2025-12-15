@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/lucene](https://github.com/apache/lucene) - Apache Lucene open-source search software (4 days ago)
+- [apache/lucene](https://github.com/apache/lucene) - Apache Lucene open-source search software (5 days ago)
 - [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (2 weeks ago)
 - [tang-hi/simplefst](https://github.com/tang-hi/simplefst) - A tiny, header-only finite state transducer (FST) implementation (3 weeks ago)
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent. (1 month ago)
@@ -16,7 +16,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [minor change: code cleanup](https://github.com/apache/lucene/pull/15447) on [apache/lucene](https://github.com/apache/lucene) (2 weeks ago)
+- [minor change: code cleanup](https://github.com/apache/lucene/pull/15447) on [apache/lucene](https://github.com/apache/lucene) (3 weeks ago)
 - [feat: enable preview diff when using tools like StrReplace and Write](https://github.com/MoonshotAI/kimi-cli/pull/289) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (1 month ago)
 - [feat: improve SetTodoList rendering with Markdown styles](https://github.com/MoonshotAI/kimi-cli/pull/284) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (1 month ago)
 - [Add self-assignment check in move assignment operator for Task](https://github.com/clice-io/clice/pull/275) on [clice-io/clice](https://github.com/clice-io/clice) (2 months ago)
@@ -29,7 +29,7 @@
 
 #### ⭐ Recent stars
 
-- [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling. (1 week ago)
+- [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling. (2 weeks ago)
 - [xiaguan/pegaflow](https://github.com/xiaguan/pegaflow) - PegaFlow is a high-performance KV cache offloading solution for vLLM v1 on single-node multi-GPU setups. (3 weeks ago)
 - [hzjken/crypto-arbitrage-framework](https://github.com/hzjken/crypto-arbitrage-framework) - A cryptocurrency arbitrage framework implemented with ccxt and cplex. It can be used to monitor multiple exchanges, find a multi-lateral arbitrage path which maximizes rate of return, calculate the optimal trading amount for each pair in the path given flexible constraints, and execute trades with multi-threading implemenation. (1 month ago)
 - [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone (1 month ago)
