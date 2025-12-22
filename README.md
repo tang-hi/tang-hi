@@ -29,11 +29,11 @@
 
 #### ⭐ Recent stars
 
+- [x5iu/wemac](https://github.com/x5iu/wemac) - 一个 it just works 的 Mac 版微信 RPA 群聊机器人 (today)
 - [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling. (3 weeks ago)
 - [xiaguan/pegaflow](https://github.com/xiaguan/pegaflow) - PegaFlow is a high-performance KV cache offloading solution for vLLM v1 on single-node multi-GPU setups. (1 month ago)
 - [hzjken/crypto-arbitrage-framework](https://github.com/hzjken/crypto-arbitrage-framework) - A cryptocurrency arbitrage framework implemented with ccxt and cplex. It can be used to monitor multiple exchanges, find a multi-lateral arbitrage path which maximizes rate of return, calculate the optimal trading amount for each pair in the path given flexible constraints, and execute trades with multi-threading implemenation. (1 month ago)
 - [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone (1 month ago)
-- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent. (1 month ago)
 
 #### 👯 Check out my recent followers
 
