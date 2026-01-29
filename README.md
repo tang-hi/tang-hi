@@ -8,11 +8,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (today)
 - [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (2 days ago)
 - [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (2 weeks ago)
 - [apache/lucene](https://github.com/apache/lucene) - Apache Lucene open-source search software (1 month ago)
 - [tang-hi/simplefst](https://github.com/tang-hi/simplefst) - A tiny, header-only finite state transducer (FST) implementation (2 months ago)
-- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI is your next CLI agent. (2 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
