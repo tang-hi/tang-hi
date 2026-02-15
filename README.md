@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (1 week ago)
+- [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (2 weeks ago)
 - [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (2 weeks ago)
 - [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (1 month ago)
 - [apache/lucene](https://github.com/apache/lucene) - Apache Lucene open-source search software (2 months ago)
@@ -25,7 +25,7 @@
 - [Add option to exclude pinned tabs from automatic grouping](https://github.com/tang-hi/smarTab/pull/2) on [tang-hi/smarTab](https://github.com/tang-hi/smarTab) (10 months ago)
 - [Enhance the flexibility of the `BinaryOutputArchive` and `BinaryInputArchive` ](https://github.com/greg7mdp/parallel-hashmap/pull/267) on [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) (1 year ago)
 - [feat: add horizontal layout](https://github.com/yetone/avante.nvim/pull/420) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (1 year ago)
-- [feat: add support of light theme](https://github.com/yetone/avante.nvim/pull/195) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (1 year ago)
+- [feat: add support of light theme](https://github.com/yetone/avante.nvim/pull/195) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (2 years ago)
 
 #### ⭐ Recent stars
 
