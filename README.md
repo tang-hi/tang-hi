@@ -12,7 +12,7 @@
 - [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (2 weeks ago)
 - [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (1 month ago)
 - [apache/lucene](https://github.com/apache/lucene) - Apache Lucene open-source search software (2 months ago)
-- [tang-hi/simplefst](https://github.com/tang-hi/simplefst) - A tiny, header-only finite state transducer (FST) implementation (2 months ago)
+- [tang-hi/simplefst](https://github.com/tang-hi/simplefst) - A tiny, header-only finite state transducer (FST) implementation (3 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
