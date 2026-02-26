@@ -29,11 +29,11 @@
 
 #### ⭐ Recent stars
 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models (today)
 - [novitalabs/pegaflow](https://github.com/novitalabs/pegaflow) (1 month ago)
 - [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) - A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems. (1 month ago)
 - [apache/datasketches-cpp](https://github.com/apache/datasketches-cpp) - Core C&#43;&#43; Sketch Library (1 month ago)
 - [x5iu/wemac](https://github.com/x5iu/wemac) - 一个 it just works 的 Mac 版微信 RPA 群聊机器人 (2 months ago)
-- [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling. (2 months ago)
 
 #### 👯 Check out my recent followers
 
