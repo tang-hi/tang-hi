@@ -29,11 +29,11 @@
 
 #### ⭐ Recent stars
 
+- [xapian/xapian](https://github.com/xapian/xapian) - Mirror of the Xapian repository.  You&#39;re welcome to open pull requests on github (they&#39;ll just get merged indirectly). (today)
 - [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程 (2 days ago)
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models (6 days ago)
 - [novitalabs/pegaflow](https://github.com/novitalabs/pegaflow) (1 month ago)
 - [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) - A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems. (1 month ago)
-- [apache/datasketches-cpp](https://github.com/apache/datasketches-cpp) - Core C&#43;&#43; Sketch Library (2 months ago)
 
 #### 👯 Check out my recent followers
 
