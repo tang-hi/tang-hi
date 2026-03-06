@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (today)
-- [tang-hi/twikit_server](https://github.com/tang-hi/twikit_server) - Read and interact with Twitter/X — browse timelines, search tweets, look up users, post tweets, like, retweet, and bookmark. Requires pip and curl. (4 days ago)
+- [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (1 day ago)
+- [tang-hi/twikit_server](https://github.com/tang-hi/twikit_server) - Read and interact with Twitter/X — browse timelines, search tweets, look up users, post tweets, like, retweet, and bookmark. Requires pip and curl. (5 days ago)
 - [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (1 month ago)
 - [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (1 month ago)
 - [apache/lucene](https://github.com/apache/lucene) - Apache Lucene open-source search software (2 months ago)
@@ -29,10 +29,10 @@
 
 #### ⭐ Recent stars
 
-- [xapian/xapian](https://github.com/xapian/xapian) - Mirror of the Xapian repository.  You&#39;re welcome to open pull requests on github (they&#39;ll just get merged indirectly). (1 day ago)
-- [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程 (3 days ago)
+- [xapian/xapian](https://github.com/xapian/xapian) - Mirror of the Xapian repository.  You&#39;re welcome to open pull requests on github (they&#39;ll just get merged indirectly). (2 days ago)
+- [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程 (4 days ago)
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models (1 week ago)
-- [novitalabs/pegaflow](https://github.com/novitalabs/pegaflow) (1 month ago)
+- [novitalabs/pegaflow](https://github.com/novitalabs/pegaflow) (2 months ago)
 - [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) - A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems. (2 months ago)
 
 #### 👯 Check out my recent followers
