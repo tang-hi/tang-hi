@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (2 days ago)
-- [tang-hi/twikit_server](https://github.com/tang-hi/twikit_server) - Read and interact with Twitter/X — browse timelines, search tweets, look up users, post tweets, like, retweet, and bookmark. Requires pip and curl. (6 days ago)
+- [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (3 days ago)
+- [tang-hi/twikit_server](https://github.com/tang-hi/twikit_server) - Read and interact with Twitter/X — browse timelines, search tweets, look up users, post tweets, like, retweet, and bookmark. Requires pip and curl. (1 week ago)
 - [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (1 month ago)
 - [tang-hi/smarTab](https://github.com/tang-hi/smarTab) - A smarTab chrome extension which will orgranize your tab (1 month ago)
 - [apache/lucene](https://github.com/apache/lucene) - Apache Lucene open-source search software (2 months ago)
@@ -19,7 +19,7 @@
 - [minor change: code cleanup](https://github.com/apache/lucene/pull/15447) on [apache/lucene](https://github.com/apache/lucene) (3 months ago)
 - [feat: enable preview diff when using tools like StrReplace and Write](https://github.com/MoonshotAI/kimi-cli/pull/289) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (3 months ago)
 - [feat: improve SetTodoList rendering with Markdown styles](https://github.com/MoonshotAI/kimi-cli/pull/284) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (3 months ago)
-- [Add self-assignment check in move assignment operator for Task](https://github.com/clice-io/clice/pull/275) on [clice-io/clice](https://github.com/clice-io/clice) (4 months ago)
+- [Add self-assignment check in move assignment operator for Task](https://github.com/clice-io/clice/pull/275) on [clice-io/clice](https://github.com/clice-io/clice) (5 months ago)
 - [Update LLVM build configuration to include clang-tools-extra project](https://github.com/clice-io/clice/pull/266) on [clice-io/clice](https://github.com/clice-io/clice) (5 months ago)
 - [make garmin&#39;s tradmill data could be imported](https://github.com/yihong0618/running_page/pull/863) on [yihong0618/running_page](https://github.com/yihong0618/running_page) (9 months ago)
 - [Add option to exclude pinned tabs from automatic grouping](https://github.com/tang-hi/smarTab/pull/2) on [tang-hi/smarTab](https://github.com/tang-hi/smarTab) (10 months ago)
@@ -29,11 +29,11 @@
 
 #### ⭐ Recent stars
 
-- [alibaba/DiskVecLab](https://github.com/alibaba/DiskVecLab) - A modular framework for evaluating disk-based vector search, enabling controlled ablations and end-to-end comparisons across diverse storage environments, concurrency regimes, and query distributions. (today)
-- [allenai/molmo2](https://github.com/allenai/molmo2) - Code for the Molmo2 Vision-Language Model (1 day ago)
-- [Thearas/wechat-db-decrypt-macos](https://github.com/Thearas/wechat-db-decrypt-macos) - macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本 (1 day ago)
-- [xapian/xapian](https://github.com/xapian/xapian) - Mirror of the Xapian repository.  You&#39;re welcome to open pull requests on github (they&#39;ll just get merged indirectly). (3 days ago)
-- [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程 (5 days ago)
+- [alibaba/DiskVecLab](https://github.com/alibaba/DiskVecLab) - A modular framework for evaluating disk-based vector search, enabling controlled ablations and end-to-end comparisons across diverse storage environments, concurrency regimes, and query distributions. (1 day ago)
+- [allenai/molmo2](https://github.com/allenai/molmo2) - Code for the Molmo2 Vision-Language Model (2 days ago)
+- [Thearas/wechat-db-decrypt-macos](https://github.com/Thearas/wechat-db-decrypt-macos) - macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本 (2 days ago)
+- [xapian/xapian](https://github.com/xapian/xapian) - Mirror of the Xapian repository.  You&#39;re welcome to open pull requests on github (they&#39;ll just get merged indirectly). (4 days ago)
+- [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程 (6 days ago)
 
 #### 👯 Check out my recent followers
 
