@@ -29,11 +29,11 @@
 
 #### ⭐ Recent stars
 
+- [tang-hi/chttp2](https://github.com/tang-hi/chttp2) - A lightweight HTTP/2 client library for C&#43;&#43;11. (today)
 - [alibaba/DiskVecLab](https://github.com/alibaba/DiskVecLab) - A modular framework for evaluating disk-based vector search, enabling controlled ablations and end-to-end comparisons across diverse storage environments, concurrency regimes, and query distributions. (2 weeks ago)
 - [allenai/molmo2](https://github.com/allenai/molmo2) - Code for the Molmo2 Vision-Language Model (2 weeks ago)
 - [Thearas/wechat-db-decrypt-macos](https://github.com/Thearas/wechat-db-decrypt-macos) - macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本 (2 weeks ago)
 - [xapian/xapian](https://github.com/xapian/xapian) - Mirror of the Xapian repository.  You&#39;re welcome to open pull requests on github (they&#39;ll just get merged indirectly). (3 weeks ago)
-- [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始构建大模型 (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
