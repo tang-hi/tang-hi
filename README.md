@@ -37,9 +37,9 @@
 
 #### 👯 Check out my recent followers
 
+- [hrabanazviking](https://github.com/hrabanazviking)
 - [helallao](https://github.com/helallao)
 - [seckinyasar](https://github.com/seckinyasar)
 - [Slade99](https://github.com/Slade99)
 - [iamljd](https://github.com/iamljd)
-- [leizhiyuan](https://github.com/leizhiyuan)
 
