@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tang-hi/codex-web](https://github.com/tang-hi/codex-web) (4 days ago)
+- [tang-hi/codex-web](https://github.com/tang-hi/codex-web) (5 days ago)
 - [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (1 month ago)
 - [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (1 month ago)
 - [tang-hi/chttp2](https://github.com/tang-hi/chttp2) - A lightweight HTTP/2 client library for C&#43;&#43;11. (1 month ago)
@@ -21,7 +21,7 @@
 - [feat: enable preview diff when using tools like StrReplace and Write](https://github.com/MoonshotAI/kimi-cli/pull/289) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (6 months ago)
 - [feat: improve SetTodoList rendering with Markdown styles](https://github.com/MoonshotAI/kimi-cli/pull/284) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (6 months ago)
 - [fix: add self-assignment check in move assignment operator for Task](https://github.com/clice-io/clice/pull/275) on [clice-io/clice](https://github.com/clice-io/clice) (7 months ago)
-- [build: update LLVM build configuration to include clang-tools-extra project](https://github.com/clice-io/clice/pull/266) on [clice-io/clice](https://github.com/clice-io/clice) (7 months ago)
+- [build: update LLVM build configuration to include clang-tools-extra project](https://github.com/clice-io/clice/pull/266) on [clice-io/clice](https://github.com/clice-io/clice) (8 months ago)
 - [make garmin&#39;s tradmill data could be imported](https://github.com/yihong0618/running_page/pull/863) on [yihong0618/running_page](https://github.com/yihong0618/running_page) (11 months ago)
 - [Add option to exclude pinned tabs from automatic grouping](https://github.com/tang-hi/smarTab/pull/2) on [tang-hi/smarTab](https://github.com/tang-hi/smarTab) (1 year ago)
 - [Enhance the flexibility of the `BinaryOutputArchive` and `BinaryInputArchive` ](https://github.com/greg7mdp/parallel-hashmap/pull/267) on [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) (1 year ago)
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
-- [aresbit/codex-desktop-linux](https://github.com/aresbit/codex-desktop-linux) - Run OpenAI Codex Desktop on Linux - automated installer (4 days ago)
-- [j2kun/mlir-tutorial](https://github.com/j2kun/mlir-tutorial) - MLIR For Beginners tutorial (1 week ago)
+- [aresbit/codex-desktop-linux](https://github.com/aresbit/codex-desktop-linux) - Run OpenAI Codex Desktop on Linux - automated installer (5 days ago)
+- [j2kun/mlir-tutorial](https://github.com/j2kun/mlir-tutorial) - MLIR For Beginners tutorial (2 weeks ago)
 - [tang-hi/chttp2](https://github.com/tang-hi/chttp2) - A lightweight HTTP/2 client library for C&#43;&#43;11. (1 month ago)
 - [alibaba/DiskVecLab](https://github.com/alibaba/DiskVecLab) - A modular framework for evaluating disk-based vector search, enabling controlled ablations and end-to-end comparisons across diverse storage environments, concurrency regimes, and query distributions. (2 months ago)
 - [allenai/molmo2](https://github.com/allenai/molmo2) - Code for the Molmo2 Vision-Language Model (2 months ago)
