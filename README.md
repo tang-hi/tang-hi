@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tang-hi/codex-web](https://github.com/tang-hi/codex-web) (5 days ago)
+- [tang-hi/codex-web](https://github.com/tang-hi/codex-web) (6 days ago)
 - [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (1 month ago)
 - [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (1 month ago)
 - [tang-hi/chttp2](https://github.com/tang-hi/chttp2) - A lightweight HTTP/2 client library for C&#43;&#43;11. (1 month ago)
@@ -17,7 +17,7 @@
 #### 🔨 Latest Pull Requests I published
 
 - [docs: ensure rules directory exists before curl in README](https://github.com/tw93/Waza/pull/30) on [tw93/Waza](https://github.com/tw93/Waza) (1 month ago)
-- [minor change: code cleanup](https://github.com/apache/lucene/pull/15447) on [apache/lucene](https://github.com/apache/lucene) (5 months ago)
+- [minor change: code cleanup](https://github.com/apache/lucene/pull/15447) on [apache/lucene](https://github.com/apache/lucene) (6 months ago)
 - [feat: enable preview diff when using tools like StrReplace and Write](https://github.com/MoonshotAI/kimi-cli/pull/289) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (6 months ago)
 - [feat: improve SetTodoList rendering with Markdown styles](https://github.com/MoonshotAI/kimi-cli/pull/284) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (6 months ago)
 - [fix: add self-assignment check in move assignment operator for Task](https://github.com/clice-io/clice/pull/275) on [clice-io/clice](https://github.com/clice-io/clice) (7 months ago)
@@ -29,7 +29,7 @@
 
 #### ⭐ Recent stars
 
-- [aresbit/codex-desktop-linux](https://github.com/aresbit/codex-desktop-linux) - Run OpenAI Codex Desktop on Linux - automated installer (5 days ago)
+- [aresbit/codex-desktop-linux](https://github.com/aresbit/codex-desktop-linux) - Run OpenAI Codex Desktop on Linux - automated installer (6 days ago)
 - [j2kun/mlir-tutorial](https://github.com/j2kun/mlir-tutorial) - MLIR For Beginners tutorial (2 weeks ago)
 - [tang-hi/chttp2](https://github.com/tang-hi/chttp2) - A lightweight HTTP/2 client library for C&#43;&#43;11. (1 month ago)
 - [alibaba/DiskVecLab](https://github.com/alibaba/DiskVecLab) - A modular framework for evaluating disk-based vector search, enabling controlled ablations and end-to-end comparisons across diverse storage environments, concurrency regimes, and query distributions. (2 months ago)
