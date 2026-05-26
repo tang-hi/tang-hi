@@ -29,11 +29,11 @@
 
 #### ⭐ Recent stars
 
+- [Allen-C-Guan/Pytorch-Inductor-Tutorial](https://github.com/Allen-C-Guan/Pytorch-Inductor-Tutorial) (today)
 - [aresbit/codex-desktop-linux](https://github.com/aresbit/codex-desktop-linux) - Run OpenAI Codex Desktop on Linux - automated installer (1 week ago)
 - [j2kun/mlir-tutorial](https://github.com/j2kun/mlir-tutorial) - MLIR For Beginners tutorial (2 weeks ago)
 - [tang-hi/chttp2](https://github.com/tang-hi/chttp2) - A lightweight HTTP/2 client library for C&#43;&#43;11. (2 months ago)
 - [alibaba/DiskVecLab](https://github.com/alibaba/DiskVecLab) - A modular framework for evaluating disk-based vector search, enabling controlled ablations and end-to-end comparisons across diverse storage environments, concurrency regimes, and query distributions. (2 months ago)
-- [allenai/molmo2](https://github.com/allenai/molmo2) - Code for the Molmo2 Vision-Language Model (2 months ago)
 
 #### 👯 Check out my recent followers
 
