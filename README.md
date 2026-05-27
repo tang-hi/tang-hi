@@ -22,14 +22,14 @@
 - [feat: improve SetTodoList rendering with Markdown styles](https://github.com/MoonshotAI/kimi-cli/pull/284) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (6 months ago)
 - [fix: add self-assignment check in move assignment operator for Task](https://github.com/clice-io/clice/pull/275) on [clice-io/clice](https://github.com/clice-io/clice) (7 months ago)
 - [build: update LLVM build configuration to include clang-tools-extra project](https://github.com/clice-io/clice/pull/266) on [clice-io/clice](https://github.com/clice-io/clice) (8 months ago)
-- [make garmin&#39;s tradmill data could be imported](https://github.com/yihong0618/running_page/pull/863) on [yihong0618/running_page](https://github.com/yihong0618/running_page) (11 months ago)
+- [make garmin&#39;s tradmill data could be imported](https://github.com/yihong0618/running_page/pull/863) on [yihong0618/running_page](https://github.com/yihong0618/running_page) (1 year ago)
 - [Add option to exclude pinned tabs from automatic grouping](https://github.com/tang-hi/smarTab/pull/2) on [tang-hi/smarTab](https://github.com/tang-hi/smarTab) (1 year ago)
 - [Enhance the flexibility of the `BinaryOutputArchive` and `BinaryInputArchive` ](https://github.com/greg7mdp/parallel-hashmap/pull/267) on [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) (1 year ago)
 - [feat: add horizontal layout](https://github.com/yetone/avante.nvim/pull/420) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (2 years ago)
 
 #### ⭐ Recent stars
 
-- [Allen-C-Guan/Pytorch-Inductor-Tutorial](https://github.com/Allen-C-Guan/Pytorch-Inductor-Tutorial) (today)
+- [Allen-C-Guan/Pytorch-Inductor-Tutorial](https://github.com/Allen-C-Guan/Pytorch-Inductor-Tutorial) (1 day ago)
 - [aresbit/codex-desktop-linux](https://github.com/aresbit/codex-desktop-linux) - Run OpenAI Codex Desktop on Linux - automated installer (1 week ago)
 - [j2kun/mlir-tutorial](https://github.com/j2kun/mlir-tutorial) - MLIR For Beginners tutorial (2 weeks ago)
 - [tang-hi/chttp2](https://github.com/tang-hi/chttp2) - A lightweight HTTP/2 client library for C&#43;&#43;11. (2 months ago)
