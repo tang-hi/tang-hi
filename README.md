@@ -16,6 +16,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add: Rust compact binding](https://github.com/unum-cloud/USearch/pull/771) on [unum-cloud/USearch](https://github.com/unum-cloud/USearch) (today)
 - [Add: Expose stats() / stats_for_level() / stats_per_level() in Rust SDK](https://github.com/unum-cloud/USearch/pull/768) on [unum-cloud/USearch](https://github.com/unum-cloud/USearch) (1 week ago)
 - [docs: ensure rules directory exists before curl in README](https://github.com/tw93/Waza/pull/30) on [tw93/Waza](https://github.com/tw93/Waza) (1 month ago)
 - [minor change: code cleanup](https://github.com/apache/lucene/pull/15447) on [apache/lucene](https://github.com/apache/lucene) (6 months ago)
@@ -25,7 +26,6 @@
 - [build: update LLVM build configuration to include clang-tools-extra project](https://github.com/clice-io/clice/pull/266) on [clice-io/clice](https://github.com/clice-io/clice) (8 months ago)
 - [make garmin&#39;s tradmill data could be imported](https://github.com/yihong0618/running_page/pull/863) on [yihong0618/running_page](https://github.com/yihong0618/running_page) (1 year ago)
 - [Add option to exclude pinned tabs from automatic grouping](https://github.com/tang-hi/smarTab/pull/2) on [tang-hi/smarTab](https://github.com/tang-hi/smarTab) (1 year ago)
-- [Enhance the flexibility of the `BinaryOutputArchive` and `BinaryInputArchive` ](https://github.com/greg7mdp/parallel-hashmap/pull/267) on [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) (1 year ago)
 
 #### ⭐ Recent stars
 
