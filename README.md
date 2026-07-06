@@ -22,7 +22,7 @@
 - [minor change: code cleanup](https://github.com/apache/lucene/pull/15447) on [apache/lucene](https://github.com/apache/lucene) (7 months ago)
 - [feat: enable preview diff when using tools like StrReplace and Write](https://github.com/MoonshotAI/kimi-cli/pull/289) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (7 months ago)
 - [feat: improve SetTodoList rendering with Markdown styles](https://github.com/MoonshotAI/kimi-cli/pull/284) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (7 months ago)
-- [fix: add self-assignment check in move assignment operator for Task](https://github.com/clice-io/clice/pull/275) on [clice-io/clice](https://github.com/clice-io/clice) (8 months ago)
+- [fix: add self-assignment check in move assignment operator for Task](https://github.com/clice-io/clice/pull/275) on [clice-io/clice](https://github.com/clice-io/clice) (9 months ago)
 - [build: update LLVM build configuration to include clang-tools-extra project](https://github.com/clice-io/clice/pull/266) on [clice-io/clice](https://github.com/clice-io/clice) (9 months ago)
 - [make garmin&#39;s tradmill data could be imported](https://github.com/yihong0618/running_page/pull/863) on [yihong0618/running_page](https://github.com/yihong0618/running_page) (1 year ago)
 - [Add option to exclude pinned tabs from automatic grouping](https://github.com/tang-hi/smarTab/pull/2) on [tang-hi/smarTab](https://github.com/tang-hi/smarTab) (1 year ago)
