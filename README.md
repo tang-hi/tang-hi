@@ -9,7 +9,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (1 week ago)
-- [unum-cloud/USearch](https://github.com/unum-cloud/USearch) - Fast Open-Source Search &amp; Clustering engine × for Vectors &amp; Arbitrary Objects × in C&#43;&#43;, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍 (1 week ago)
+- [unum-cloud/USearch](https://github.com/unum-cloud/USearch) - Fast Open-Source Search &amp; Clustering engine × for Vectors &amp; Arbitrary Objects × in C&#43;&#43;, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍 (2 weeks ago)
 - [tang-hi/codex-web](https://github.com/tang-hi/codex-web) (2 weeks ago)
 - [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (4 weeks ago)
 - [tang-hi/chttp2](https://github.com/tang-hi/chttp2) - A lightweight HTTP/2 client library for C&#43;&#43;11. (3 months ago)
