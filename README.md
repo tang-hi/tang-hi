@@ -8,20 +8,20 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (today)
-- [tang-hi/washi](https://github.com/tang-hi/washi) - Washi — ink on silk-white paper. A light, quiet design system. (today)
-- [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (1 day ago)
+- [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (1 day ago)
+- [tang-hi/washi](https://github.com/tang-hi/washi) - Washi — ink on silk-white paper. A light, quiet design system. (1 day ago)
+- [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (2 days ago)
 - [unum-cloud/USearch](https://github.com/unum-cloud/USearch) - Fast Open-Source Search &amp; Clustering engine × for Vectors &amp; Arbitrary Objects × in C&#43;&#43;, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍 (2 months ago)
 - [tang-hi/codex-web](https://github.com/tang-hi/codex-web) (2 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add: Rust compact binding](https://github.com/unum-cloud/USearch/pull/771) on [unum-cloud/USearch](https://github.com/unum-cloud/USearch) (2 months ago)
+- [Add: Rust compact binding](https://github.com/unum-cloud/USearch/pull/771) on [unum-cloud/USearch](https://github.com/unum-cloud/USearch) (3 months ago)
 - [Add: Expose stats() / stats_for_level() / stats_per_level() in Rust SDK](https://github.com/unum-cloud/USearch/pull/768) on [unum-cloud/USearch](https://github.com/unum-cloud/USearch) (3 months ago)
 - [docs: ensure rules directory exists before curl in README](https://github.com/tw93/Waza/pull/30) on [tw93/Waza](https://github.com/tw93/Waza) (4 months ago)
 - [minor change: code cleanup](https://github.com/apache/lucene/pull/15447) on [apache/lucene](https://github.com/apache/lucene) (9 months ago)
-- [feat: enable preview diff when using tools like StrReplace and Write](https://github.com/MoonshotAI/kimi-cli/pull/289) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (9 months ago)
-- [feat: improve SetTodoList rendering with Markdown styles](https://github.com/MoonshotAI/kimi-cli/pull/284) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (9 months ago)
+- [feat: enable preview diff when using tools like StrReplace and Write](https://github.com/MoonshotAI/kimi-cli/pull/289) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (10 months ago)
+- [feat: improve SetTodoList rendering with Markdown styles](https://github.com/MoonshotAI/kimi-cli/pull/284) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (10 months ago)
 - [fix: add self-assignment check in move assignment operator for Task](https://github.com/clice-io/clice/pull/275) on [clice-io/clice](https://github.com/clice-io/clice) (11 months ago)
 - [build: update LLVM build configuration to include clang-tools-extra project](https://github.com/clice-io/clice/pull/266) on [clice-io/clice](https://github.com/clice-io/clice) (11 months ago)
 - [make garmin&#39;s tradmill data could be imported](https://github.com/yihong0618/running_page/pull/863) on [yihong0618/running_page](https://github.com/yihong0618/running_page) (1 year ago)
