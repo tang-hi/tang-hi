@@ -8,9 +8,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tang-hi/washi](https://github.com/tang-hi/washi) - Washi — ink on silk-white paper. A light, quiet design system. (today)
-- [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (1 day ago)
-- [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (2 days ago)
+- [tang-hi/washi](https://github.com/tang-hi/washi) - Washi — ink on silk-white paper. A light, quiet design system. (1 day ago)
+- [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (2 days ago)
+- [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (3 days ago)
 - [unum-cloud/USearch](https://github.com/unum-cloud/USearch) - Fast Open-Source Search &amp; Clustering engine × for Vectors &amp; Arbitrary Objects × in C&#43;&#43;, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍 (2 months ago)
 - [tang-hi/codex-web](https://github.com/tang-hi/codex-web) (2 months ago)
 
