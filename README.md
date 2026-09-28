@@ -37,9 +37,9 @@
 
 #### 👯 Check out my recent followers
 
+- [huihui-hr](https://github.com/huihui-hr)
 - [aramisjustin068](https://github.com/aramisjustin068)
 - [sunby](https://github.com/sunby)
 - [wensiyuanseven](https://github.com/wensiyuanseven)
 - [hrabanazviking](https://github.com/hrabanazviking)
-- [Slade99](https://github.com/Slade99)
 
