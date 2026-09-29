@@ -10,7 +10,7 @@
 
 - [tang-hi/washi](https://github.com/tang-hi/washi) - Washi — ink on silk-white paper. A light, quiet design system. (2 weeks ago)
 - [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (2 weeks ago)
-- [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (2 weeks ago)
+- [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (3 weeks ago)
 - [unum-cloud/USearch](https://github.com/unum-cloud/USearch) - Fast Open-Source Search &amp; Clustering engine × for Vectors &amp; Arbitrary Objects × in C&#43;&#43;, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍 (2 months ago)
 - [tang-hi/codex-web](https://github.com/tang-hi/codex-web) (2 months ago)
 
@@ -29,7 +29,7 @@
 
 #### ⭐ Recent stars
 
-- [serenedb/serenedb](https://github.com/serenedb/serenedb) - The First Real-Time Search Analytics Database (1 day ago)
+- [serenedb/serenedb](https://github.com/serenedb/serenedb) - The First Real-Time Search Analytics Database (2 days ago)
 - [yetone/cumora](https://github.com/yetone/cumora) - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains. (1 month ago)
 - [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill (4 months ago)
 - [Allen-C-Guan/Pytorch-Inductor-Tutorial](https://github.com/Allen-C-Guan/Pytorch-Inductor-Tutorial) (4 months ago)
