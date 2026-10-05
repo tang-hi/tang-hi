@@ -12,7 +12,7 @@
 - [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (3 weeks ago)
 - [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (3 weeks ago)
 - [unum-cloud/USearch](https://github.com/unum-cloud/USearch) - Fast Open-Source Search &amp; Clustering engine × for Vectors &amp; Arbitrary Objects × in C&#43;&#43;, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍 (2 months ago)
-- [tang-hi/codex-web](https://github.com/tang-hi/codex-web) (2 months ago)
+- [tang-hi/codex-web](https://github.com/tang-hi/codex-web) (3 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -25,7 +25,7 @@
 - [fix: add self-assignment check in move assignment operator for Task](https://github.com/clice-io/clice/pull/275) on [clice-io/clice](https://github.com/clice-io/clice) (1 year ago)
 - [build: update LLVM build configuration to include clang-tools-extra project](https://github.com/clice-io/clice/pull/266) on [clice-io/clice](https://github.com/clice-io/clice) (1 year ago)
 - [make garmin&#39;s tradmill data could be imported](https://github.com/yihong0618/running_page/pull/863) on [yihong0618/running_page](https://github.com/yihong0618/running_page) (1 year ago)
-- [Add option to exclude pinned tabs from automatic grouping](https://github.com/tang-hi/smarTab/pull/2) on [tang-hi/smarTab](https://github.com/tang-hi/smarTab) (1 year ago)
+- [Add option to exclude pinned tabs from automatic grouping](https://github.com/tang-hi/smarTab/pull/2) on [tang-hi/smarTab](https://github.com/tang-hi/smarTab) (2 years ago)
 
 #### ⭐ Recent stars
 
