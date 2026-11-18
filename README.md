@@ -37,9 +37,9 @@
 
 #### 👯 Check out my recent followers
 
+- [Kos-M](https://github.com/Kos-M)
 - [huihui-hr](https://github.com/huihui-hr)
 - [sunby](https://github.com/sunby)
 - [wensiyuanseven](https://github.com/wensiyuanseven)
 - [hrabanazviking](https://github.com/hrabanazviking)
-- [Slade99](https://github.com/Slade99)
 
