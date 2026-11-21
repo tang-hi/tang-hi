@@ -38,8 +38,8 @@
 #### 👯 Check out my recent followers
 
 - [lxlynx](https://github.com/lxlynx)
-- [Kos-M](https://github.com/Kos-M)
 - [huihui-hr](https://github.com/huihui-hr)
 - [sunby](https://github.com/sunby)
 - [wensiyuanseven](https://github.com/wensiyuanseven)
+- [hrabanazviking](https://github.com/hrabanazviking)
 
