@@ -8,15 +8,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/datasketches-cpp](https://github.com/apache/datasketches-cpp) - Core C&#43;&#43; Sketch Library (1 day ago)
 - [tang-hi/washi](https://github.com/tang-hi/washi) - Washi — ink on silk-white paper. A light, quiet design system. (2 months ago)
 - [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (2 months ago)
 - [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (2 months ago)
 - [unum-cloud/USearch](https://github.com/unum-cloud/USearch) - One proximity graph for vector search, sparse products &amp; attention across RAM, VRAM &amp; NVMe, over dense vectors, sequences, shapes &amp; geospatial sets in 14 languages 🔍 (4 months ago)
-- [tang-hi/codex-web](https://github.com/tang-hi/codex-web) (4 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix CMake target_link_libraries typo in README.md](https://github.com/apache/datasketches-cpp/pull/598) on [apache/datasketches-cpp](https://github.com/apache/datasketches-cpp) (today)
+- [Fix CMake target_link_libraries typo in README.md](https://github.com/apache/datasketches-cpp/pull/598) on [apache/datasketches-cpp](https://github.com/apache/datasketches-cpp) (1 day ago)
 - [Add: Rust compact binding](https://github.com/unum-cloud/USearch/pull/771) on [unum-cloud/USearch](https://github.com/unum-cloud/USearch) (5 months ago)
 - [Add: Expose stats() / stats_for_level() / stats_per_level() in Rust SDK](https://github.com/unum-cloud/USearch/pull/768) on [unum-cloud/USearch](https://github.com/unum-cloud/USearch) (5 months ago)
 - [docs: ensure rules directory exists before curl in README](https://github.com/tw93/Waza/pull/30) on [tw93/Waza](https://github.com/tw93/Waza) (7 months ago)
@@ -25,7 +25,7 @@
 - [feat: improve SetTodoList rendering with Markdown styles](https://github.com/MoonshotAI/kimi-cli/pull/284) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (1 year ago)
 - [fix: add self-assignment check in move assignment operator for Task](https://github.com/clice-io/clice/pull/275) on [clice-io/clice](https://github.com/clice-io/clice) (1 year ago)
 - [build: update LLVM build configuration to include clang-tools-extra project](https://github.com/clice-io/clice/pull/266) on [clice-io/clice](https://github.com/clice-io/clice) (1 year ago)
-- [make garmin&#39;s tradmill data could be imported](https://github.com/yihong0618/running_page/pull/863) on [yihong0618/running_page](https://github.com/yihong0618/running_page) (1 year ago)
+- [make garmin&#39;s tradmill data could be imported](https://github.com/yihong0618/running_page/pull/863) on [yihong0618/running_page](https://github.com/yihong0618/running_page) (2 years ago)
 
 #### ⭐ Recent stars
 
