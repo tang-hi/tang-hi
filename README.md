@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/datasketches-cpp](https://github.com/apache/datasketches-cpp) - Core C&#43;&#43; Sketch Library (2 days ago)
+- [apache/datasketches-cpp](https://github.com/apache/datasketches-cpp) - Core C&#43;&#43; Sketch Library (3 days ago)
 - [tang-hi/washi](https://github.com/tang-hi/washi) - Washi — ink on silk-white paper. A light, quiet design system. (2 months ago)
 - [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (2 months ago)
 - [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (2 months ago)
@@ -16,7 +16,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix CMake target_link_libraries typo in README.md](https://github.com/apache/datasketches-cpp/pull/598) on [apache/datasketches-cpp](https://github.com/apache/datasketches-cpp) (2 days ago)
+- [Fix CMake target_link_libraries typo in README.md](https://github.com/apache/datasketches-cpp/pull/598) on [apache/datasketches-cpp](https://github.com/apache/datasketches-cpp) (3 days ago)
 - [Add: Rust compact binding](https://github.com/unum-cloud/USearch/pull/771) on [unum-cloud/USearch](https://github.com/unum-cloud/USearch) (5 months ago)
 - [Add: Expose stats() / stats_for_level() / stats_per_level() in Rust SDK](https://github.com/unum-cloud/USearch/pull/768) on [unum-cloud/USearch](https://github.com/unum-cloud/USearch) (5 months ago)
 - [docs: ensure rules directory exists before curl in README](https://github.com/tw93/Waza/pull/30) on [tw93/Waza](https://github.com/tw93/Waza) (7 months ago)
@@ -31,7 +31,7 @@
 
 - [serenedb/serenedb](https://github.com/serenedb/serenedb) - The First Real-Time Search Analytics Database (1 month ago)
 - [yetone/cumora](https://github.com/yetone/cumora) - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains. (3 months ago)
-- [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill (5 months ago)
+- [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill (6 months ago)
 - [Allen-C-Guan/AI-Infra-Handbook](https://github.com/Allen-C-Guan/AI-Infra-Handbook) (6 months ago)
 - [aresbit/codex-desktop-linux](https://github.com/aresbit/codex-desktop-linux) - Run OpenAI Codex Desktop on Linux - automated installer (6 months ago)
 
