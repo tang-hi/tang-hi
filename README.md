@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/datasketches-cpp](https://github.com/apache/datasketches-cpp) - Core C&#43;&#43; Sketch Library (4 days ago)
+- [apache/datasketches-cpp](https://github.com/apache/datasketches-cpp) - Core C&#43;&#43; Sketch Library (5 days ago)
 - [tang-hi/washi](https://github.com/tang-hi/washi) - Washi — ink on silk-white paper. A light, quiet design system. (2 months ago)
 - [tang-hi/dotfile](https://github.com/tang-hi/dotfile) - My dotfile and install file (2 months ago)
 - [tang-hi/tang-hi.github.io](https://github.com/tang-hi/tang-hi.github.io) - Blog (2 months ago)
@@ -16,9 +16,9 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix CMake target_link_libraries typo in README.md](https://github.com/apache/datasketches-cpp/pull/598) on [apache/datasketches-cpp](https://github.com/apache/datasketches-cpp) (4 days ago)
+- [Fix CMake target_link_libraries typo in README.md](https://github.com/apache/datasketches-cpp/pull/598) on [apache/datasketches-cpp](https://github.com/apache/datasketches-cpp) (5 days ago)
 - [Add: Rust compact binding](https://github.com/unum-cloud/USearch/pull/771) on [unum-cloud/USearch](https://github.com/unum-cloud/USearch) (5 months ago)
-- [Add: Expose stats() / stats_for_level() / stats_per_level() in Rust SDK](https://github.com/unum-cloud/USearch/pull/768) on [unum-cloud/USearch](https://github.com/unum-cloud/USearch) (5 months ago)
+- [Add: Expose stats() / stats_for_level() / stats_per_level() in Rust SDK](https://github.com/unum-cloud/USearch/pull/768) on [unum-cloud/USearch](https://github.com/unum-cloud/USearch) (6 months ago)
 - [docs: ensure rules directory exists before curl in README](https://github.com/tw93/Waza/pull/30) on [tw93/Waza](https://github.com/tw93/Waza) (7 months ago)
 - [minor change: code cleanup](https://github.com/apache/lucene/pull/15447) on [apache/lucene](https://github.com/apache/lucene) (1 year ago)
 - [feat: enable preview diff when using tools like StrReplace and Write](https://github.com/MoonshotAI/kimi-cli/pull/289) on [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (1 year ago)
